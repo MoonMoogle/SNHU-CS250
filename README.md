@@ -6,6 +6,7 @@ Final Project - Sprint Review & Retrospective Document
 
   
     How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+  
    > I'd suggest it is best not to make interpretations when possible, nor guesses, but to ask questions and clarify either with the client, product owner, or whoever else may be in charge of working with the end users to determine requirements.
 >
 > User stories are an organization method for cataloguing client requirments and desires for the product they are commissioning. The user stories provide a structured layout for etablishing the 'what' and 'how' of each functionality - 'what' the functionality is intended to do, and 'how' it's intended to be accomplished. 
